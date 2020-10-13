@@ -1,0 +1,22 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '5 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository to Main branch
+        uses: actions/checkout@v1
+      - name: Generate README file
+        run: node index.js
+      - name: Commit and push new README.md to the repository
+        uses: carmelal/publish-to-github-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
