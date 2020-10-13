@@ -1,7 +1,43 @@
+const fs = require('fs');
+const request = require('request-promise');
 
-[<img alt='Old Farmers Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover,f=auto,onerror=redirect,width=390,height=351/wp-content/uploads/old-farmers-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/old-farmers-day/)
-<p align='right'>Today, October 12, is</p>
-<h4 align='right'>Old Farmers Day!</h4>
+const NAME_REGEX = /<a href="https:\/\/www\.daysoftheyear\.com\/days\/([a-z]|-)+\/" class="js-link-target">(\w|\s|-|')+<\/a>/g;
+const IMAGE_REGEX = /https:\/\/www\.daysoftheyear\.com\/cdn-cgi\/image\/([a-z]|\d|=|,)+\/wp-content\/uploads\/([a-z]|-|\d)+\.[a-z]+/g;
+
+let date = new Date();
+let year = date.getFullYear();
+let month = date.getMonth() + 1;
+let text_month = date.toLocaleString('default', { month: 'long' });
+let day = date.getDate();
+let url = `https://www.daysoftheyear.com/days/${year}/${month}/${day}/`;
+
+let name, link, img_src;
+
+async function getInfo() {
+  await request(url)
+    .then(function(html) {
+      let result = html.match(NAME_REGEX);
+      let holiday = result[0];
+      name = holiday.split(/<|>/)[2];
+      link = holiday.split(/"/)[1];
+
+      result = html.match(IMAGE_REGEX);
+      img_src = result[2];
+    })
+    .catch(function(err) {
+      console.log(err);
+    });
+
+  console.log(`${name}: ${link}`);
+  console.log(img_src);
+}
+
+async function generateReadMe() {
+  await getInfo(url);
+  let new_file = `
+[<img alt='${name}' src='${img_src}' width=100 align='right'>](${link})
+<p align='right'>Today, ${text_month} ${day}, is</p>
+<h4 align='right'>${name}!</h4>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='york-logo.jpg' width=15>](https://www.yorku.ca/)
@@ -28,4 +64,12 @@
 [<img align='left' alt='LinkedIn badge' src='https://img.shields.io/badge/-Carmela%20Leung-2867B2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/carmela-leung-50919b14b/'/>](https://www.linkedin.com/in/carmela-leung-50919b14b/)
 [<img align='left' alt='My Other GitHub Badge' src='https://img.shields.io/badge/-carmelore-2b3137?style=for-the-badge&logo=github&link=https://github.com/carmelore'/>](https://github.com/carmelore)
 [<img align='left' alt='Facebook Badge' src='https://img.shields.io/badge/-Carmela%20Leung-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/pastelswirlsmusic'/>](https://facebook.com/pastelswirlsmusic) <p align='right'> made with ♥️  + <img alt='JavaScript' src='js-logo.png' width=15></p>
-  
+  `
+
+  fs.writeFile('README.md', new_file, function(err) {
+    if (err) throw err;
+    console.log('ah h  h h h hh h hhh h');
+  });
+}
+
+generateReadMe();
