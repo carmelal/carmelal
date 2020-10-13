@@ -25,7 +25,9 @@ async function getInfo() {
       img_src = result[2];
     })
     .catch(function(err) {
-      console.log(err);
+      name = 'not a nice day for my code';
+      link = 'https://www.youtube.com/watch?v=ign_vZupjno';
+      img_src = 'assets/womp-womp.jpg';
     });
 
   console.log(`${name}: ${link}`);
@@ -37,10 +39,10 @@ async function generateReadMe() {
   let new_file = `
 [<img alt='${name}' src='${img_src}' width=100 align='right'>](${link})
 <p align='right'>Today, ${text_month} ${day}, is</p>
-<h4 align='right'>${name}!</h4>
+<p align='right'><b>${name}</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
-[<img alt='Shopify logo' src='shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='york-logo.jpg' width=15>](https://www.yorku.ca/)
+[<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
 
 │⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│  ⠀♬⠀⠀⠀⠀⠀
 │⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀│⠀⠀█⠀⠀█⠀⠀█⠀⠀│  ⠀⠀⠀⠀⠀⠀
@@ -54,7 +56,7 @@ async function generateReadMe() {
 * :sparkling_heart: Pronouns: she/her
 * :world_map: Based in Canada
 * :computer: Currently working on [Shopify CLI](https://github.com/Shopify/shopify-app-cli)
-* :seedling: Trying to learn Node, webscraping
+* :seedling: Trying to learn Node, GitHub Actions
 * :card_index_dividers: Side projects: both my GitHub READMEs
 * :speech_balloon: Interested in robotics, accessibility
 * :love_you_gesture: Fun fact: I'm learning ASL
@@ -63,8 +65,8 @@ async function generateReadMe() {
 
 [<img align='left' alt='LinkedIn badge' src='https://img.shields.io/badge/-Carmela%20Leung-2867B2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/carmela-leung-50919b14b/'/>](https://www.linkedin.com/in/carmela-leung-50919b14b/)
 [<img align='left' alt='My Other GitHub Badge' src='https://img.shields.io/badge/-carmelore-2b3137?style=for-the-badge&logo=github&link=https://github.com/carmelore'/>](https://github.com/carmelore)
-[<img align='left' alt='Facebook Badge' src='https://img.shields.io/badge/-Carmela%20Leung-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/pastelswirlsmusic'/>](https://facebook.com/pastelswirlsmusic) <p align='right'> made with ♥️  + <img alt='JavaScript' src='js-logo.png' width=15></p>
-  `
+[<img align='left' alt='Facebook Badge' src='https://img.shields.io/badge/-Carmela%20Leung-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/pastelswirlsmusic'/>](https://facebook.com/pastelswirlsmusic) <p align='right'> made with ♥️  + <img alt='JavaScript logo' src='assets/js-logo.png' width=15></p>
+  `;
 
   fs.writeFile('README.md', new_file, function(err) {
     if (err) throw err;

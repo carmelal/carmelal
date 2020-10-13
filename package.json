@@ -1,0 +1,23 @@
+{
+  "name": "carmelal",
+  "version": "1.0.0",
+  "description": "<img alt='Shopify logo' src='shopify-logo.png' width=15> Dev Degree Intern @ Shopify || Computer Science Student @ York University <img alt='York University logo' src='york-logo.jpg' width=15>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmelal/carmelal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmelal/carmelal/issues"
+  },
+  "homepage": "https://github.com/carmelal/carmelal#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
