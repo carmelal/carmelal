@@ -1,6 +1,6 @@
-[<img alt='White Chocolate Cheesecake Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover,f=auto,onerror=redirect,width=342,height=155/wp-content/uploads/white-chocolate-cheesecake-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/white-chocolate-cheesecake-day/)
-<p align='right'>Today, March 6, is</p>
-<p align='right'><b>White Chocolate Cheesecake Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Be Heard Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover,f=auto,onerror=redirect,width=342,height=155/wp-content/uploads/be-heard-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/be-heard-day/)
+<p align='right'>Today, March 7, is</p>
+<p align='right'><b>Be Heard Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
