@@ -1,6 +1,6 @@
-[<img alt='Girl Scout Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover,f=auto,onerror=redirect,width=342,height=155/wp-content/uploads/girl-scout-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/girl-scout-day/)
-<p align='right'>Today, March 12, is</p>
-<p align='right'><b>Girl Scout Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Jewel Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover,f=auto,onerror=redirect,width=342,height=155/wp-content/uploads/jewel-day-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/jewel-day/)
+<p align='right'>Today, March 13, is</p>
+<p align='right'><b>Jewel Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
