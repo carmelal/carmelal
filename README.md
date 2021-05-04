@@ -1,6 +1,6 @@
-[<img alt='Lemonade Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/lemonade-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/lemonade-day/)
-<p align='right'>Today, May 3, is</p>
-<p align='right'><b>Lemonade Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Star Wars Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/star-wars-day1-1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/star-wars-day/)
+<p align='right'>Today, May 4, is</p>
+<p align='right'><b>Star Wars Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
