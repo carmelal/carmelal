@@ -1,6 +1,6 @@
-[<img alt='No Diet Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/password-day-e1556102874422.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/no-diet-day/)
-<p align='right'>Today, May 6, is</p>
-<p align='right'><b>No Diet Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Tuba Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/tuba-day-1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/tuba-day/)
+<p align='right'>Today, May 7, is</p>
+<p align='right'><b>Tuba Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
