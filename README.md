@@ -1,6 +1,6 @@
-[<img alt='Eat What You Want Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/eat-what-you-want-day-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/eat-what-you-want-day/)
-<p align='right'>Today, May 11, is</p>
-<p align='right'><b>Eat What You Want Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='International Nurses Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/international-nurses-day-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/international-nurses-day/)
+<p align='right'>Today, May 12, is</p>
+<p align='right'><b>International Nurses Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
