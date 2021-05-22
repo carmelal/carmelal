@@ -1,6 +1,6 @@
-[<img alt='World Meditation Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/world-meditation-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/world-meditation-day/)
-<p align='right'>Today, May 21, is</p>
-<p align='right'><b>World Meditation Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Sherlock Holmes Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/sherlock-holmes-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/sherlock-holmes-day/)
+<p align='right'>Today, May 22, is</p>
+<p align='right'><b>Sherlock Holmes Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
