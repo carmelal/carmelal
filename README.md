@@ -1,6 +1,6 @@
-[<img alt='Hug Your Cat Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/hug-your-cat-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/hug-your-cat-day/)
-<p align='right'>Today, June 4, is</p>
-<p align='right'><b>Hug Your Cat Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Sausage Roll Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/sausage-roll-day2-e1559808168450.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/sausage-roll-day/)
+<p align='right'>Today, June 5, is</p>
+<p align='right'><b>Sausage Roll Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
