@@ -1,6 +1,6 @@
-[<img alt='Yarn Bombing Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=39%2Cheight=44/wp-content/uploads/logomark.svg' width=100 align='right'>](https://www.daysoftheyear.com/days/yarn-bombing-day/)
-<p align='right'>Today, June 11, is</p>
-<p align='right'><b>Yarn Bombing Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Superman Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=39%2Cheight=44/wp-content/uploads/logomark.svg' width=100 align='right'>](https://www.daysoftheyear.com/days/superman-day/)
+<p align='right'>Today, June 12, is</p>
+<p align='right'><b>Superman Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
