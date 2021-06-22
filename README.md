@@ -1,6 +1,6 @@
-[<img alt='World Music Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/make-music-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/music-day/)
-<p align='right'>Today, June 21, is</p>
-<p align='right'><b>World Music Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='World Rainforest Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/world-rainforest-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/world-rainforest-day/)
+<p align='right'>Today, June 22, is</p>
+<p align='right'><b>World Rainforest Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
