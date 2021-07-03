@@ -1,6 +1,6 @@
-[<img alt='Anisette Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/anisette-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/anisette-day/)
-<p align='right'>Today, July 2, is</p>
-<p align='right'><b>Anisette Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='International Plastic Bag Free Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/international-plastic-bag-free-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/international-plastic-bag-free-day/)
+<p align='right'>Today, July 3, is</p>
+<p align='right'><b>International Plastic Bag Free Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
