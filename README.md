@@ -1,6 +1,6 @@
-[<img alt='Chocolate with Almonds Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/math-2-0-day-1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/chocolate-with-almonds-day/)
-<p align='right'>Today, July 8, is</p>
-<p align='right'><b>Chocolate with Almonds Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Kebab Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/kebab-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/kebab-day/)
+<p align='right'>Today, July 9, is</p>
+<p align='right'><b>Kebab Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
