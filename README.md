@@ -1,6 +1,6 @@
-[<img alt='Piña Colada Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/pina-colada-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pina-colada-day/)
-<p align='right'>Today, July 10, is</p>
-<p align='right'><b>Piña Colada Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Blueberry Muffin Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/blueberry-muffin-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/blueberry-muffin-day/)
+<p align='right'>Today, July 11, is</p>
+<p align='right'><b>Blueberry Muffin Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
