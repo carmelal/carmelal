@@ -1,6 +1,6 @@
-[<img alt='Etch A Sketch Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/etch-a-sketch-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/etch-a-sketch-day/)
-<p align='right'>Today, July 12, is</p>
-<p align='right'><b>Etch A Sketch Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='French Fries Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/french-fries-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/french-fries-day/)
+<p align='right'>Today, July 13, is</p>
+<p align='right'><b>French Fries Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
