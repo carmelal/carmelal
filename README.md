@@ -1,6 +1,6 @@
-[<img alt='Caviar Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/caviar-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/caviar-day/)
-<p align='right'>Today, July 18, is</p>
-<p align='right'><b>Caviar Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Daiquiri Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/daiquiri-day-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/daiquiri-day/)
+<p align='right'>Today, July 19, is</p>
+<p align='right'><b>Daiquiri Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
