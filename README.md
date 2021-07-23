@@ -1,6 +1,6 @@
-[<img alt='Hammock Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/hammock-day2-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/hammock-day/)
-<p align='right'>Today, July 22, is</p>
-<p align='right'><b>Hammock Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Peanut Butter and Chocolate Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=342%2Cheight=155/wp-content/uploads/peanut-butter-and-chocolate-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/peanut-butter-and-chocolate-day/)
+<p align='right'>Today, July 23, is</p>
+<p align='right'><b>Peanut Butter and Chocolate Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
