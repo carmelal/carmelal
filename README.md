@@ -1,6 +1,6 @@
-[<img alt='Odie Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/international-cat-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/odie-day/)
-<p align='right'>Today, August 8, is</p>
-<p align='right'><b>Odie Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Melon Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/melon-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/melon-day/)
+<p align='right'>Today, August 9, is</p>
+<p align='right'><b>Melon Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
