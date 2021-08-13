@@ -1,5 +1,5 @@
-[<img alt='Anti-Frizz Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/world-elephant-day-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/anti-frizz-month/)
-<p align='right'>Today, August 12, is</p>
+[<img alt='Anti-Frizz Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/blame-someone-else-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/anti-frizz-month/)
+<p align='right'>Today, August 13, is</p>
 <p align='right'><b>Anti-Frizz Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
