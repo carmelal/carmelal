@@ -1,5 +1,5 @@
-[<img alt='Anti-Frizz Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/bow-tie-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/anti-frizz-month/)
-<p align='right'>Today, August 28, is</p>
+[<img alt='Anti-Frizz Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/more-herbs-less-salt-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/anti-frizz-month/)
+<p align='right'>Today, August 29, is</p>
 <p align='right'><b>Anti-Frizz Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
