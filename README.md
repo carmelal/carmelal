@@ -1,6 +1,6 @@
-[<img alt='V-J Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/calendar-adjustment-day2.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/v-j-day/)
-<p align='right'>Today, September 2, is</p>
-<p align='right'><b>V-J Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Skyscraper Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/skyscraper-day2.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/skyscraper-day/)
+<p align='right'>Today, September 3, is</p>
+<p align='right'><b>Skyscraper Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
