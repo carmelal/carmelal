@@ -1,6 +1,6 @@
-[<img alt='Wildlife Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/wildlife-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/wildlife-day/)
-<p align='right'>Today, September 4, is</p>
-<p align='right'><b>Wildlife Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Friendship Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/be-late-for-something-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/friendship-month/)
+<p align='right'>Today, September 5, is</p>
+<p align='right'><b>Friendship Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
