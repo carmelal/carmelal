@@ -1,6 +1,6 @@
-[<img alt='Alpaca Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/world-suicide-prevention-day-e1568102645851.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/alpaca-day/)
-<p align='right'>Today, September 10, is</p>
-<p align='right'><b>Alpaca Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Patriot Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=472%2Cheight=214/wp-content/uploads/make-your-bed-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/patriot-day/)
+<p align='right'>Today, September 11, is</p>
+<p align='right'><b>Patriot Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
