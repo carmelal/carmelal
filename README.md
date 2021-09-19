@@ -1,6 +1,6 @@
-[<img alt='Cheeseburger Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/international-red-panda-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/cheeseburger-day/)
-<p align='right'>Today, September 18, is</p>
-<p align='right'><b>Cheeseburger Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Batman Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/butterscotch-pudding-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/batman-day/)
+<p align='right'>Today, September 19, is</p>
+<p align='right'><b>Batman Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
