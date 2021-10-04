@@ -1,6 +1,6 @@
-[<img alt='Techies Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/techies-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/techies-day/)
-<p align='right'>Today, October 3, is</p>
-<p align='right'><b>Techies Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Vodka Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/vodka-day1-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/vodka-day/)
+<p align='right'>Today, October 4, is</p>
+<p align='right'><b>Vodka Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
