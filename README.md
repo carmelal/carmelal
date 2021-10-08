@@ -1,6 +1,6 @@
-[<img alt='Bathtub Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/bathtub-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/bathtub-day/)
-<p align='right'>Today, October 7, is</p>
-<p align='right'><b>Bathtub Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Egg Day' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/world-octopus-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/egg-day/)
+<p align='right'>Today, October 8, is</p>
+<p align='right'><b>Egg Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
