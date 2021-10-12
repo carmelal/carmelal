@@ -1,5 +1,5 @@
 [<img alt='Canadian Thanksgiving' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/coming-out-day3.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/canadian-thanksgiving/)
-<p align='right'>Today, October 11, is</p>
+<p align='right'>Today, October 12, is</p>
 <p align='right'><b>Canadian Thanksgiving</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
