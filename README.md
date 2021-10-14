@@ -1,5 +1,5 @@
-[<img alt='Pizza Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/old-farmers-day1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pizza-month/)
-<p align='right'>Today, October 13, is</p>
+[<img alt='Pizza Month' src='https://www.daysoftheyear.com/cdn-cgi/image/fit=cover%2Cf=auto%2Conerror=redirect%2Cwidth=448%2Cheight=306/wp-content/uploads/no-bra-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pizza-month/)
+<p align='right'>Today, October 14, is</p>
 <p align='right'><b>Pizza Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
