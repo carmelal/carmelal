@@ -1,6 +1,6 @@
-[<img alt='Mother-In-Law Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=contain%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/canadian-library-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/mother-in-law-day/)
-<p align='right'>Today, October 24, is</p>
-<p align='right'><b>Mother-In-Law Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Sourest Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=contain%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/down-syndrome-awareness-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/sourest-day/)
+<p align='right'>Today, October 25, is</p>
+<p align='right'><b>Sourest Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
