@@ -1,6 +1,6 @@
-[<img alt='Pumpkin Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/cyber-security-awareness-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pumpkin-day/)
-<p align='right'>Today, October 26, is</p>
-<p align='right'><b>Pumpkin Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Navy Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/dyslexia-awareness-month-1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/navy-day/)
+<p align='right'>Today, October 27, is</p>
+<p align='right'><b>Navy Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
