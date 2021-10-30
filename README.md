@@ -1,6 +1,6 @@
-[<img alt='Internet Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/family-history-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/internet-day/)
-<p align='right'>Today, October 29, is</p>
-<p align='right'><b>Internet Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Checklist Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/fire-prevention-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/checklist-day/)
+<p align='right'>Today, October 30, is</p>
+<p align='right'><b>Checklist Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
