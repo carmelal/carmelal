@@ -1,6 +1,6 @@
-[<img alt='Orphan Sunday' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/peanut-butter-lovers-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/orphan-sunday/)
-<p align='right'>Today, November 7, is</p>
-<p align='right'><b>Orphan Sunday</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='X-Ray Day' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/native-american-heritage-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/x-ray-day/)
+<p align='right'>Today, November 8, is</p>
+<p align='right'><b>X-Ray Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
