@@ -1,5 +1,5 @@
-[<img alt='Pomegranate Month' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/vegan-month-1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pomegranate-month/)
-<p align='right'>Today, November 12, is</p>
+[<img alt='Pomegranate Month' src='https://www.daysoftheyear.com/cdn-cgi/image/f=auto%2Cfit=cover%2Cgravity=auto%2Cheight=100%2Conerror=redirect%2Cwidth=192/wp-content/uploads/movember-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pomegranate-month/)
+<p align='right'>Today, November 13, is</p>
 <p align='right'><b>Pomegranate Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
