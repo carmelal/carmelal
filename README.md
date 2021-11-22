@@ -1,6 +1,6 @@
-[<img alt='Stuffing Day' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=25%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cwidth=1936/wp-content/uploads/false-confession-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/stuffing-day/)
-<p align='right'>Today, November 21, is</p>
-<p align='right'><b>Stuffing Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Pomegranate Month' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=25%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cwidth=1936/wp-content/uploads/manateemed.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/pomegranate-month/)
+<p align='right'>Today, November 22, is</p>
+<p align='right'><b>Pomegranate Month</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
