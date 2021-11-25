@@ -1,5 +1,5 @@
-[<img alt='Movember' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=25%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cwidth=1936/wp-content/uploads/sardines-day.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/movember/)
-<p align='right'>Today, November 24, is</p>
+[<img alt='Movember' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=25%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cwidth=1936/wp-content/uploads/adoption-month-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/movember/)
+<p align='right'>Today, November 25, is</p>
 <p align='right'><b>Movember</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
