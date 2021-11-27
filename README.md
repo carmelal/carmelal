@@ -1,6 +1,6 @@
-[<img alt='Sinkie Day' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=25%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=259%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=500/wp-content/uploads/vegan-month-1.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/sinkie-day/)
-<p align='right'>Today, November 26, is</p>
-<p align='right'><b>Sinkie Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Movember' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=35%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=259%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=500/wp-content/uploads/a-blue-christmas.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/movember/)
+<p align='right'>Today, November 27, is</p>
+<p align='right'><b>Movember</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
