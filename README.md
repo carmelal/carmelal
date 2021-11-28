@@ -1,5 +1,5 @@
-[<img alt='Movember' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=35%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=259%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=500/wp-content/uploads/a-blue-christmas.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/movember/)
-<p align='right'>Today, November 27, is</p>
+[<img alt='Movember' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=35%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cq=65%2Cwidth=1936/wp-content/uploads/epilepsy-awareness-month.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/movember/)
+<p align='right'>Today, November 28, is</p>
 <p align='right'><b>Movember</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
