@@ -1,6 +1,6 @@
-[<img alt='not a nice day for my code' src='assets/womp-womp.jpg' width=100 align='right'>](https://www.youtube.com/watch?v=Lt1u6N7lueM)
-<p align='right'>Today, December 7, is</p>
-<p align='right'><b>not a nice day for my code</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
+[<img alt='Lard Day' src='https://www.daysoftheyear.com/cdn-cgi/image/blur=35%2Cf=auto%2Cfit=cover%2Cgravity=auto%2Cheight=1000%2Cmetadata=none%2Conerror=redirect%2Cq=65%2Cwidth=1936/wp-content/uploads/business-plan-month-scaled.jpg' width=100 align='right'>](https://www.daysoftheyear.com/days/lard-day/)
+<p align='right'>Today, December 8, is</p>
+<p align='right'><b>Lard Day</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Dev Degree Intern @ Shopify || Computer Science Student @ York University [<img alt='York University logo' src='assets/york-logo.jpg' width=15>](https://www.yorku.ca/)
