@@ -1,5 +1,5 @@
 [<img alt='not a nice day for my code' src='assets/womp-womp.jpg' width=100 align='right'>](https://www.youtube.com/watch?v=Lt1u6N7lueM)
-<p align='right'>Today, December 17, is</p>
+<p align='right'>Today, December 18, is</p>
 <p align='right'><b>not a nice day for my code</b> <em>(via <a href='https://daysoftheyear.com'>Days of the Year</a>)</em></p>
 
 ## :wave: Hello World, I'm Carmela
