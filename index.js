@@ -23,21 +23,21 @@ async function getInfo() {
       result = html.match(IMAGE_REGEX);
       img_src = result[2];
 
-      log = `\n${day} ${text_month} ${date.getFullYear}\n${name}: ${link}\n ${img_src}\n`;
+      log = `${day} ${text_month} ${date.getFullYear}\n${name}: ${link}\n ${img_src}\n\n`;
     })
     .catch(function(err) {
       name = 'not a nice day for my code';
       link = 'https://www.youtube.com/watch?v=Lt1u6N7lueM';
       img_src = 'assets/womp-womp.jpg';
 
-      log = `\nERROR!\n${err.getMessage()}\n`;
+      log = `ERROR!\n${err}\n\n`;
     });
 
   console.log(`${name}: ${link}`);
   console.log(img_src);
 
   fs.appendFile('logs.txt', log, function (err) {
-    if (err) throw err;
+    if (err) console.log(err);
   });
 }
 
