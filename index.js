@@ -11,6 +11,8 @@ let day = date.getDate();
 let name, link, img_src;
 
 async function getInfo() {
+  let log;
+
   await request('https://www.daysoftheyear.com/today')
     .then(function(html) {
       let result = html.match(NAME_REGEX);
@@ -20,15 +22,23 @@ async function getInfo() {
 
       result = html.match(IMAGE_REGEX);
       img_src = result[2];
+
+      log = `\n${day} ${text_month} ${date.getFullYear}\n${name}: ${link}\n ${img_src}\n`;
     })
     .catch(function(err) {
       name = 'not a nice day for my code';
       link = 'https://www.youtube.com/watch?v=Lt1u6N7lueM';
       img_src = 'assets/womp-womp.jpg';
+
+      log = `\nERROR!\n${err.getMessage()}\n`;
     });
 
   console.log(`${name}: ${link}`);
   console.log(img_src);
+
+  fs.appendFile('logs.txt', log, function (err) {
+    if (err) throw err;
+  });
 }
 
 async function generateReadMe() {
