@@ -1,7 +1,9 @@
-[<img alt='National Bacon Day' src='https://giphy.com/embed/5WIFVhOoIe6waggvaa' width=150 align='right' />](https://giphy.com/gifs/evite-bacon-national-day-i-love-5WIFVhOoIe6waggvaa)
-<p align='right'>Today, December 30, is</p>
-[<p align='right'><b>National Bacon Day</b></p>](https://www.daysoftheyear.com/days/bacon-day/)
-<em>Powered by <a title="Days Of The Year" href="https://www.daysoftheyear.com">Days Of The Year</a> + <a title="GIPHY" href="https://giphy.com">GIPHY</a></em>
+<a href="https://giphy.com/gifs/evite-bacon-national-day-i-love-5WIFVhOoIe6waggvaa"><img alt='National Bacon Day' src='https://giphy.com/embed/5WIFVhOoIe6waggvaa' width=150 align='right' /></a>
+<div align="right">
+  <p>Today, December 30, is</p>
+  <p><b><a title="National Bacon Day" href="https://www.daysoftheyear.com/days/bacon-day/">National Bacon Day</a></b></p>
+  <p><em>Powered by <a title="Days Of The Year" href="https://www.daysoftheyear.com">Days Of The Year</a> + <a title="GIPHY" href="https://giphy.com">GIPHY</a></em></p>
+</div>
 
 ## :wave: Hello World, I'm Carmela!
 [<img alt='Shopify logo' src='assets/shopify-logo.png' width=15>](https://www.shopify.com/) Security Engineer at Shopify
