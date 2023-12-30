@@ -1,6 +1,6 @@
-[<img alt='National Bacon Day' src='https://giphy.com/embed/5WIFVhOoIe6waggvaa' width=100 align='right'>](https://giphy.com/gifs/evite-bacon-national-day-i-love-5WIFVhOoIe6waggvaa)
+[<img alt='National Bacon Day' src='https://giphy.com/embed/5WIFVhOoIe6waggvaa' width=150 align='right' />](https://giphy.com/gifs/evite-bacon-national-day-i-love-5WIFVhOoIe6waggvaa)
 <p align='right'>Today, December 30, is</p>
-[<p align='right'><b>National Bacon Day</b>](https://www.daysoftheyear.com/days/bacon-day/)
+[<p align='right'><b>National Bacon Day</b></p>](https://www.daysoftheyear.com/days/bacon-day/)
 <em>Powered by <a title="Days Of The Year" href="https://www.daysoftheyear.com">Days Of The Year</a> + <a title="GIPHY" href="https://giphy.com">GIPHY</a></em>
 
 ## :wave: Hello World, I'm Carmela!
@@ -29,5 +29,4 @@
 
 [<img align='left' alt='LinkedIn badge' src='https://img.shields.io/badge/-Carmela%20Leung-2867B2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/carmela-leung/'/>](https://www.linkedin.com/in/carmela-leung/)
 [<img src="https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.leung@shopify.com)
-[<img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.mn.leung@gmail.com)
-<p align='right'> made with ♥️  + <img alt='JavaScript logo' src='assets/js-logo.png' width=15></p>
+[<img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.mn.leung@gmail.com)<p align='right'> made with ♥️  + <img alt='JavaScript logo' src='assets/js-logo.png' width=15></p>

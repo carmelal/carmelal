@@ -62,6 +62,8 @@ async function getGif() {
 
     log = `ERROR!\n${err}\n\n`;
   }
+  
+  console.log(`${gif_src}: ${giphy_url}`)
 }
 
 async function generateReadMe() {
