@@ -1,6 +1,7 @@
 {
   "name": "carmelal",
   "version": "1.0.0",
+  "type": "module",
   "description": "<img alt='Shopify logo' src='shopify-logo.png' width=15> Dev Degree Intern @ Shopify || Computer Science Student @ York University <img alt='York University logo' src='york-logo.jpg' width=15>",
   "main": "index.js",
   "scripts": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/carmelal/carmelal#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   }

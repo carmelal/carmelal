@@ -1,54 +1,79 @@
-const fs = require('fs');
-const request = require('request-promise');
-
-const NAME_REGEX = /<a href="https:\/\/www\.daysoftheyear\.com\/days\/([a-z]|-)+\/" class="js-link-target">(\s|-|'|[A-zÀ-ž])+<\/a>/g;
-const IMAGE_REGEX = /https:\/\/www\.daysoftheyear\.com\/cdn-cgi\/image\/([A-z]|\d|=|,|%)+\/wp-content\/uploads\/([a-z]|-|\d)+\.[a-z]+/g;
+import fs from "fs";
+import fetch from "node-fetch";
 
 let date = new Date();
 let text_month = date.toLocaleString('default', { month: 'long' });
 let day = date.getDate();
 
-let name, link, img_src;
+let name, url, gif_src, giphy_url;
 
 async function getInfo() {
   let log;
 
-  await request('https://www.daysoftheyear.com/today')
-    .then(function(html) {
-      let result = html.match(NAME_REGEX);
-      let holiday = result[0];
-      name = holiday.split(/<|>/)[2];
-      link = holiday.split(/"/)[1];
-
-      result = html.match(IMAGE_REGEX);
-      img_src = result[2];
-
-      log = `${day} ${text_month} ${date.getFullYear}\n${name}: ${link}\n ${img_src}\n\n`;
+  try {
+    let request = await fetch('https://www.daysoftheyear.com/api/v1/today?limit=1', {
+      headers: {
+        'X-Api-Key': '4af1c7e1589ea585b642cc32dffb523f',
+      }
     })
-    .catch(function(err) {
-      name = 'not a nice day for my code';
-      link = 'https://www.youtube.com/watch?v=Lt1u6N7lueM';
-      img_src = 'assets/womp-womp.jpg';
+    let response = await request.json();
 
-      log = `ERROR!\n${err}\n\n`;
-    });
+    let holiday = response.data["0"];
+    name = holiday.name;
+    url = holiday.url;
 
-  console.log(`${name}: ${link}`);
-  console.log(img_src);
+    log = `${day} ${text_month} ${date.getFullYear}\n${name}: ${url}\n\n`;
+  } catch (err) {
+    name = 'not a nice day for my code';
+    url = 'https://nerdfighteria.info/v/IaPktIpo9_0/';
+
+    log = `ERROR!\n${err}\n\n`;
+  };
+
+  console.log(`${name}: ${url}`);
 
   fs.appendFile('logs.txt', log, function (err) {
     if (err) console.log(err);
   });
 }
 
+async function getGif() {
+  let params = {
+    api_key: "6TqA3QBf0EH7OioSRsslbXfBGvBmE5LR",
+    q: name.toLowerCase(),
+    rating: "g",
+    limit: 1,
+  };
+
+  let query = Object.keys(params)
+    .map((k) => encodeURIComponent(k) + "=" + encodeURIComponent(params[k]))
+    .join("&");
+
+  try {
+    let request = await fetch(`https://api.giphy.com/v1/gifs/search?${query}`);
+    let response = await request.json();
+
+    let gif = response.data[0];
+    gif_src = gif.embed_url;
+    giphy_url = gif.url
+  } catch (err) {
+    gif_src = 'assets/womp-womp.jpg';
+    giphy_url = '#';
+
+    log = `ERROR!\n${err}\n\n`;
+  }
+}
+
 async function generateReadMe() {
   await getInfo();
+  await getGif();
 
   await fs.readFile('template.txt', 'utf-8', function(err, data) {
     if (err) throw err;
     data = data.replace(/{{name}}/g, name);
-    data = data.replace(/{{link}}/g, link);
-    data = data.replace(/{{img_src}}/g, img_src);
+    data = data.replace(/{{link}}/g, url);
+    data = data.replace(/{{img_src}}/g, gif_src);
+    data = data.replace(/{{giphy}}/g, giphy_url);
     data = data.replace(/{{text_month}}/g, text_month);
     let new_readme = data.replace(/{{day}}/g, day);
 

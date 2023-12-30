@@ -1,3 +1,59 @@
+ERROR!
+ReferenceError: fetch is not defined
 
 ERROR!
-TypeError: Cannot read properties of null (reading '0')
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: fetch is not defined
+
+ERROR!
+ReferenceError: http is not defined
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+ERROR!
+TypeError: Cannot read properties of undefined (reading '0')
+
+30 December function getFullYear() { [native code] }
+National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
+ no image yet
+
+30 December function getFullYear() { [native code] }
+National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
+ no image yet
+
+30 December function getFullYear() { [native code] }
+National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
+
