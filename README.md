@@ -1,7 +1,7 @@
-<a href="https://giphy.com/gifs/evite-bacon-national-day-i-love-5WIFVhOoIe6waggvaa"><img alt='National Bacon Day' src='https://giphy.com/embed/5WIFVhOoIe6waggvaa' width=150 align='right' /></a>
+<img alt='Make Up Your Mind Day' src='https://giphy.com/embed/IECPbhEK8XZ69ctDrP' width=150 align='right' />
 <div align="right">
   <p>Today, December 30, is</p>
-  <p><b><a title="National Bacon Day" href="https://www.daysoftheyear.com/days/bacon-day/">National Bacon Day</a></b></p>
+  <p><b><a title="Make Up Your Mind Day" href="https://www.daysoftheyear.com/days/make-up-your-mind-day/">Make Up Your Mind Day</a></b></p>
   <p><em>Powered by <a title="Days Of The Year" href="https://www.daysoftheyear.com">Days Of The Year</a> + <a title="GIPHY" href="https://giphy.com">GIPHY</a></em></p>
 </div>
 
