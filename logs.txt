@@ -1,74 +1,12 @@
-ERROR!
-ReferenceError: fetch is not defined
+10 May function getFullYear() { [native code] }
+National Shrimp Day: https://www.daysoftheyear.com/days/national-shrimp-day/
 
-ERROR!
-ReferenceError: fetch is not defined
+10 May function getFullYear() { [native code] }
+National Shrimp Day: https://www.daysoftheyear.com/days/national-shrimp-day/
 
-ERROR!
-ReferenceError: fetch is not defined
+10 May function getFullYear() { [native code] }
+National Shrimp Day: https://www.daysoftheyear.com/days/national-shrimp-day/
 
-ERROR!
-ReferenceError: fetch is not defined
-
-ERROR!
-ReferenceError: fetch is not defined
-
-ERROR!
-ReferenceError: fetch is not defined
-
-ERROR!
-ReferenceError: fetch is not defined
-
-ERROR!
-ReferenceError: fetch is not defined
-
-ERROR!
-ReferenceError: http is not defined
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-ERROR!
-TypeError: Cannot read properties of undefined (reading '0')
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
- no image yet
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
- no image yet
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
-
-30 December function getFullYear() { [native code] }
-National Bacon Day: https://www.daysoftheyear.com/days/bacon-day/
-
-30 December function getFullYear() { [native code] }
-Make Up Your Mind Day: https://www.daysoftheyear.com/days/make-up-your-mind-day/
-
-30 December function getFullYear() { [native code] }
-Make Up Your Mind Day: https://www.daysoftheyear.com/days/make-up-your-mind-day/
+10 May function getFullYear() { [native code] }
+National Shrimp Day: https://www.daysoftheyear.com/days/national-shrimp-day/
 

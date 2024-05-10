@@ -1,7 +1,7 @@
-<img alt='Make Up Your Mind Day' src='https://giphy.com/embed/IECPbhEK8XZ69ctDrP' width=150 align='right' />
+<img alt='National Shrimp Day' src='https://giphy.com/gifs/globaltv-the-good-place-shrimp-eleanor-shellstrop-8lGW4VVGOtvZpgiffD' width=150 align='right' />
 <div align="right">
-  <p>Today, December 30, is</p>
-  <p><b><a title="Make Up Your Mind Day" href="https://www.daysoftheyear.com/days/make-up-your-mind-day/">Make Up Your Mind Day</a></b></p>
+  <p>Today, May 10, is</p>
+  <p><b><a title="National Shrimp Day" href="https://www.daysoftheyear.com/days/national-shrimp-day/">National Shrimp Day</a></b></p>
   <p><em>Powered by <a title="Days Of The Year" href="https://www.daysoftheyear.com">Days Of The Year</a> + <a title="GIPHY" href="https://giphy.com">GIPHY</a></em></p>
 </div>
 
@@ -24,7 +24,7 @@
 * :computer: Currently working as a Security Engineer at [Shopify](https://shopify.com)
 * :seedling: Trying to learn more about accessibility
 * :card_index_dividers: Side projects: Autism Services Map
-* :speech_balloon: Interested in accessible design, linguistics, neurodevelopmental disorders
+* :speech_balloon: Interested in accessible design, harm reduction, neurodevelopmental disorders
 * :love_you_gesture: Fun fact: I'm learning ASL
 
 ****

@@ -54,7 +54,7 @@ async function getGif() {
     let response = await request.json();
 
     let gif = response.data[0];
-    gif_src = gif.embed_url;
+    gif_src = gif.url;
     giphy_url = gif.url
   } catch (err) {
     gif_src = 'assets/womp-womp.jpg';
