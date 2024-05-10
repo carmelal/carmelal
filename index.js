@@ -52,7 +52,7 @@ async function getGif() {
     .join("&");
 
   try {
-    let request = await fetch(`https://api.giphy.com/v1/gifs/random?${query}`);
+    let request = await fetch(`https://api.giphy.com/v1/gifs/search?${query}`);
     let response = await request.json();
 
     let gif = response.data;
