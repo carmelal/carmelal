@@ -1,4 +1,4 @@
-<img alt='{{name}}' src='{{img_src}}' width=150 align='right' />
+<img alt='{{name}}' src='{{img_src}}' width=150 align='right' style="margin:5px"/>
 <div align="right">
   <p>Today, {{text_month}} {{day}}, is</p>
   <p><b><a title="{{name}}" href="{{link}}">{{name}}</a></b></p>
