@@ -1,4 +1,4 @@
-<img alt='National Shrimp Day' src='https://giphy.com/gifs/globaltv-the-good-place-shrimp-eleanor-shellstrop-8lGW4VVGOtvZpgiffD' width=150 align='right' />
+<img alt='National Shrimp Day' src='https://media0.giphy.com/media/dSflIedD1J60icwOfz/giphy.gif?cid=ac058bd10cdmoqbbeeqheyv1ylj40lyukrfos0hmbdz89d10&ep=v1_gifs_random&rid=giphy.gif&ct=g' width=150 align='right' />
 <div align="right">
   <p>Today, May 10, is</p>
   <p><b><a title="National Shrimp Day" href="https://www.daysoftheyear.com/days/national-shrimp-day/">National Shrimp Day</a></b></p>

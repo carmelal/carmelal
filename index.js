@@ -21,23 +21,25 @@ async function getInfo() {
     let holiday = response.data["0"];
     name = holiday.name;
     url = holiday.url;
-
-    log = `${day} ${text_month} ${date.getFullYear}\n${name}: ${url}\n\n`;
   } catch (err) {
     name = 'not a nice day for my code';
     url = 'https://nerdfighteria.info/v/IaPktIpo9_0/';
 
-    log = `ERROR!\n${err}\n\n`;
+    log = `\n${err}\n\n`;
   };
 
   console.log(`${name}: ${url}`);
 
-  fs.appendFile('logs.txt', log, function (err) {
-    if (err) console.log(err);
-  });
+  if(log) {
+    fs.appendFile('logs.txt', `${date.toString()} DotY error:${log}`, function (err) {
+      if (err) console.log(err);
+    });
+  }
 }
 
 async function getGif() {
+  let log;
+
   let params = {
     api_key: "6TqA3QBf0EH7OioSRsslbXfBGvBmE5LR",
     q: name.toLowerCase(),
@@ -50,20 +52,26 @@ async function getGif() {
     .join("&");
 
   try {
-    let request = await fetch(`https://api.giphy.com/v1/gifs/search?${query}`);
+    let request = await fetch(`https://api.giphy.com/v1/gifs/random?${query}`);
     let response = await request.json();
 
-    let gif = response.data[0];
-    gif_src = gif.url;
+    let gif = response.data;
+    gif_src = gif.images.original.url;
     giphy_url = gif.url
   } catch (err) {
     gif_src = 'assets/womp-womp.jpg';
     giphy_url = '#';
 
-    log = `ERROR!\n${err}\n\n`;
+    log = `\n${err}\n\n`;
   }
   
   console.log(`${gif_src}: ${giphy_url}`)
+
+  if(log) {
+    fs.appendFile('logs.txt', `${date.toString()} Giphy error:${log}`, function (err) {
+      if (err) console.log(err);
+    });
+  }
 }
 
 async function generateReadMe() {
