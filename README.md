@@ -21,7 +21,7 @@
 
 * :sparkling_heart: Pronouns: she/her
 * :world_map: Based in Canada
-* :computer: Currently working as a Security Engineer at [Shopify](https://shopify.com)
+* :computer: Currently working as a Senior Security Engineer at [Shopify](https://shopify.com)
 * :seedling: Trying to learn more about accessibility
 * :card_index_dividers: Side projects: Autism Services Map
 * :speech_balloon: Interested in accessible design, harm reduction, neurodevelopmental disorders
@@ -29,6 +29,4 @@
 
 ****
 
-[<img align='left' alt='LinkedIn badge' src='https://img.shields.io/badge/-Carmela%20Leung-2867B2?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/carmela-leung/'/>](https://www.linkedin.com/in/carmela-leung/)
-[<img src="https://img.shields.io/badge/Work-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.leung@shopify.com)
-[<img src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.mn.leung@gmail.com)<p align='right'> made with ♥️  + <img alt='JavaScript logo' src='assets/js-logo.png' width=15></p>
+[<img src="https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:carmela.leung@shopify.com)<p align='right'> made with ♥️  + <img alt='JavaScript logo' src='assets/js-logo.png' width=15></p>
